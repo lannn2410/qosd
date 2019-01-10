@@ -1,4 +1,4 @@
-# qosd
+# QoSD
 This project focuses on network resilience to perturbation of edge weight. 
 Other than connectivity, many network applications nowadays rely upon some 
 measure of network distance between a pair of connected nodes. In these 
